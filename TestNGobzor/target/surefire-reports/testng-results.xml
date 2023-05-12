@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-06T16:20:50 MSK" name="tests.ObzorTestNGTest" finished-at="2023-05-06T16:20:50 MSK" duration-ms="52">
+    <groups>
+    </groups>
+    <test started-at="2023-05-06T16:20:50 MSK" name="Command line test" finished-at="2023-05-06T16:20:50 MSK" duration-ms="52">
+      <class name="tests.ObzorTestNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="setUpClass" finished-at="2023-05-06T16:20:50 MSK" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="setUpMethod" finished-at="2023-05-06T16:20:50 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="hello()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="hello" finished-at="2023-05-06T16:20:50 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="tearDownMethod" finished-at="2023-05-06T16:20:50 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="hello2()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="hello2" finished-at="2023-05-06T16:20:50 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello2 -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="setUpMethod" finished-at="2023-05-06T16:20:50 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="tearDownMethod" finished-at="2023-05-06T16:20:50 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:tests.ObzorTestNGTest@45f45fa1]" started-at="2023-05-06T16:20:50 MSK" name="tearDownClass" finished-at="2023-05-06T16:20:50 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- tests.ObzorTestNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.ObzorTestNGTest -->
+</testng-results>
